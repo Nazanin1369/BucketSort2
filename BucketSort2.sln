@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BucketSort2", "BucketSort2\BucketSort2.vcxproj", "{F97E1721-31D3-44A3-8860-887FF09A3947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97E1721-31D3-44A3-8860-887FF09A3947}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F97E1721-31D3-44A3-8860-887FF09A3947}.Debug|Win32.Build.0 = Debug|Win32
+		{F97E1721-31D3-44A3-8860-887FF09A3947}.Release|Win32.ActiveCfg = Release|Win32
+		{F97E1721-31D3-44A3-8860-887FF09A3947}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
